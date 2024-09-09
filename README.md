@@ -1,7 +1,7 @@
 ### Installing and running the Following commands
 
 ```
-git clone https://github.com/Muniraj132/religio-backend.git
+https://github.com/sakthi-sakthi/religio-backend.git
 ```
 
 ```
